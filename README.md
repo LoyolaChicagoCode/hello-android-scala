@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/lucoodevcourse/hello-android-scala.svg?branch=master)](https://travis-ci.org/lucoodevcourse/hello-android-scala) 
-[![Coverage Status](https://img.shields.io/coveralls/lucoodevcourse/hello-android-scala.svg)](https://coveralls.io/r/lucoodevcourse/hello-android-scala) 
-[![Download](https://api.bintray.com/packages/lucoodevcourse/generic/hello-android-scala/images/download.svg) ](https://bintray.com/lucoodevcourse/generic/hello-android-scala/_latestVersion)
+[![Build Status](https://travis-ci.org/LoyolaChicagoCode/hello-android-scala.svg?branch=master)](https://travis-ci.org/LoyolaChicagoCode/hello-android-scala) 
+[![Coverage Status](https://img.shields.io/coveralls/LoyolaChicagoCode/hello-android-scala.svg)](https://coveralls.io/r/LoyolaChicagoCode/hello-android-scala) 
+[![Download](https://api.bintray.com/packages/loyolachicagocode/generic/hello-android-scala/images/download.svg) ](https://bintray.com/loyolachicagocode/generic/hello-android-scala/_latestVersion)
 
 # Learning Objectives
 
